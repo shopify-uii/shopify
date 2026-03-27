@@ -1,1 +1,1 @@
-console.log("Shopify UI initialized");
+console.log("");
